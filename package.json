@@ -8,8 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@yushuo/wechat-jssdk": "^0.0.1",
+    "@yushuo/wechat-jssdk": "^0.0.6",
     "core-js": "^3.6.4",
+    "vconsole": "^3.3.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {

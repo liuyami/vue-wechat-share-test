@@ -1287,10 +1287,10 @@
   resolved "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=
 
-"@yushuo/wechat-jssdk@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@yushuo/wechat-jssdk/-/wechat-jssdk-0.0.1.tgz#3d009cb66fbe0254028a1a743967e677a73b03a0"
-  integrity sha512-BGPZoGheWegmDT/4Bx1pfiA0ySUG97KptGzr5HEmIWbJsWDWJPjgRmLt32iBdy47JLz/F/lQ+ZjN1MfWlmTzLA==
+"@yushuo/wechat-jssdk@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@yushuo/wechat-jssdk/-/wechat-jssdk-0.0.6.tgz#57471c8135f7defe660a89cd9e07e43db3c5b4d2"
+  integrity sha512-RQk+DemHDfFFpg7Dp255zmfrfu/1LiAvy6cFfgWGA3T83XMCk/nmXEb4TA3CyI0veurP7+i8v0Ej7FmWlTxQgQ==
   dependencies:
     weixin-js-sdk "^1.4.0-test"
 
@@ -7780,6 +7780,11 @@ vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
+
+vconsole@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/vconsole/-/vconsole-3.3.4.tgz#a7dacd8887b3d3e902e8d18425cda56c34e77f51"
+  integrity sha512-9yihsic96NPoMLQx/lCQwH9d89H0bbMW3LZPzo/t4yGQcS1X+vTCe9OHm1XSH7WNxzGDmcSwBiKLsFGwvJpQBg==
 
 vendors@^1.0.0:
   version "1.0.4"
