@@ -1287,6 +1287,11 @@
   resolved "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=
 
+"@yushuo/landscape-tip@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@yushuo/landscape-tip/-/landscape-tip-0.0.2.tgz#66a37052ae987c49bd326f2dbe552577367bcb60"
+  integrity sha512-w1tWK8JfbMEwA15Zxv1Nawo7Aruq3pBQOkWQEXN8Q+Afzfc4iGk+GknqthIYZMfbU7ZiawuCes3tK4a1qHskEA==
+
 "@yushuo/wechat-jssdk@^0.0.6":
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/@yushuo/wechat-jssdk/-/wechat-jssdk-0.0.6.tgz#57471c8135f7defe660a89cd9e07e43db3c5b4d2"
